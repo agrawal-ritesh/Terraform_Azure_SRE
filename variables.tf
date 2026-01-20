@@ -6,9 +6,7 @@ variable "location" {
     default = "East US"
 }
 
-variable "vm_count" {
-    default = 7
-}
+variable "vm_count" {}
 
 variable "admin_username" {
     default = "azvmuser"
