@@ -10,7 +10,7 @@ variable "vm_count" {
     default = 7
 }
 
-variable "admins_username" {
+variable "admin_username" {
     default = "azvmuser"
 }
 
